@@ -1,2 +1,5 @@
 # proctol-convert
-USB to I2C,UART,SPI,PWM,GPIO,ADC,SWD
+usb转i2c、spi、uart、pwm、gpio、swd、adc
+基于RP2040制作
+
+
